@@ -13,7 +13,7 @@ const int dr[] = {-1, 0, 0, 1};
 const int dc[] = {0, -1, 1, 0};
 
 void solve() {
-    
+    // start here
 }
 
 int main() {
